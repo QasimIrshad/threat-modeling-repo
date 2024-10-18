@@ -17,20 +17,20 @@ This repository will include threat models from various technology areas, such a
 Each threat model is structured in a markdown file for easy readability and modification, ensuring you can integrate these models into your own threat analysis process or adapt them as needed for specific projects.
 
 ## 🛠️ How to Use
-Navigate to the relevant technology file in the repository.
-Open the markdown file of the threat model you’re interested in. Each file follows a structured format, typically including:
-Overview: A brief introduction to the system or technology area.
-Assets: Key assets or components that need protection.
-Threats: Common threats that the system may face.
-Mitigations: Strategies and actions to mitigate identified threats.
+-Navigate to the relevant technology file in the repository. <br>
+-Open the markdown file of the threat model you’re interested in. Each file follows a structured format, typically including:<br>
+-Overview: A brief introduction to the system or technology area.<br>
+-Assets: Key assets or components that need protection.<br>
+-Threats: Common threats that the system may face.<br>
+-Mitigations: Strategies and actions to mitigate identified threats.<br>
 
 ## 🎯 Who Is This For?
-This repository is designed for:
+This repository is designed for:<br>
 
-Security Engineers and Cybersecurity Professionals looking for structured threat models for various technologies.
-Developers wanting to integrate security considerations early in the development lifecycle.
-Researchers exploring potential vulnerabilities and mitigation strategies in different technological domains.
-Students and educators using threat modeling as a tool for learning and teaching cybersecurity best practices.
+-Security Engineers and Cybersecurity Professionals looking for structured threat models for various technologies.<br>
+-Developers wanting to integrate security considerations early in the development lifecycle.<br>
+-Researchers exploring potential vulnerabilities and mitigation strategies in different technological domains.<br>
+-Students and educators using threat modeling as a tool for learning and teaching cybersecurity best practices.<br>
 
 ## 🧠 Contribution and Feedback
 If you'd like to add new threat models or improve existing ones, feel free to submit a pull request or open an issue. If you have any suggestions or feedback, please don’t hesitate to reach out.
